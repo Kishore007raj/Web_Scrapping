@@ -1,0 +1,9 @@
+.vscode
+.vscodeignore
+*.chromedriver.exe
+*.log
+*.pyc
+*.sfp
+*.sfpignore
+*.sfpignoreignore
+chromedriver.exe
